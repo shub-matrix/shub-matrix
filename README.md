@@ -55,4 +55,10 @@
 
 <img src="https://github-profile-trophy.vercel.app?username=shub-matrix&theme=great-gatsby&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
 
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+
 </div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+Leave a ⭐ from [here](https://github.com/shub-matrix/shub-matrix) if you likeee 😁
