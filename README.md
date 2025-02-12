@@ -50,7 +50,7 @@
 # 📈 Github Stats
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shub-matrix&theme=great-gatsby&layout=compact" alt="shub-matrix" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shub-matrix&theme=great-gatsby&show_icons=true&locale=en" alt="shub-matrix" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shub-matrix&theme=great-gatsby" alt="shub-matrix" /></p>
 
 <img src="https://github-profile-trophy.vercel.app?username=shub-matrix&theme=great-gatsby&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
 </div>
