@@ -53,6 +53,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shub-matrix&theme=great-gatsby" alt="shub-matrix" /></p>
 
+
+## 🏆 GitHub Trophies:
+
 <img src="https://github-profile-trophy.vercel.app?username=shub-matrix&theme=great-gatsby&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
 
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
